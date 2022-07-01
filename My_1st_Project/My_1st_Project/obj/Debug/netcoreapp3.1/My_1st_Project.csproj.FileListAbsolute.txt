@@ -1,0 +1,14 @@
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\bin\Debug\netcoreapp3.1\My_1st_Project.exe
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\bin\Debug\netcoreapp3.1\My_1st_Project.deps.json
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\bin\Debug\netcoreapp3.1\My_1st_Project.runtimeconfig.json
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\bin\Debug\netcoreapp3.1\My_1st_Project.runtimeconfig.dev.json
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\bin\Debug\netcoreapp3.1\My_1st_Project.dll
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\bin\Debug\netcoreapp3.1\My_1st_Project.pdb
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\obj\Debug\netcoreapp3.1\My_1st_Project.csproj.AssemblyReference.cache
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\obj\Debug\netcoreapp3.1\My_1st_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\obj\Debug\netcoreapp3.1\My_1st_Project.AssemblyInfoInputs.cache
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\obj\Debug\netcoreapp3.1\My_1st_Project.AssemblyInfo.cs
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\obj\Debug\netcoreapp3.1\My_1st_Project.csproj.CoreCompileInputs.cache
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\obj\Debug\netcoreapp3.1\My_1st_Project.dll
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\obj\Debug\netcoreapp3.1\My_1st_Project.pdb
+C:\Users\tomzx\source\repos\My_1st_Project\My_1st_Project\obj\Debug\netcoreapp3.1\My_1st_Project.genruntimeconfig.cache
